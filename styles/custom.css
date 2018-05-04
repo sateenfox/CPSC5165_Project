@@ -1,34 +1,46 @@
 html{
-	height:100%;
+	font-family: "Montserrat", sans-serif;
+	font-family: "Raleway", sans-serif;
 }
 
 body{
-	background-color: #D2CA77;
-	height:100%;
+	background-color: #E1C294;
+	font-family: Raleway;
+	color:black;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: Montserrat;
+	color:#322A15;
 }
 
 .bg{
-	background-image: url("images/teabags.png");
-	height: 100%;
-	margin: 0;
-	background-position: center;
+	background: url('images/teabags.png') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
 	background-size: cover;
+	-o-background-size: cover;
 }
 
 .nav-link{
-	font-size: 22px;
+	font-family: Montserrat;
+	font-size: 1.17em;
 }
 
 .nav-link:link, .nav-link:visited{
 	text-decoration: none;
-	color: #3D3D0A;
+	color: #2C0F14;
 }
 
 .nav-link:hover, .nav-link:active{
 	text-decoration: none;
-	color: #8D8529;
+	color: #671919;
 }
 
-h1{
-	color: #3D3D0A;
+#cafe_name{
+	font-size: 4em !important;
+}
+
+.menu{
+	margin-top:2em;
 }
