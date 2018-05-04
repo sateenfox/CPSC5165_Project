@@ -1,0 +1,34 @@
+html{
+	height:100%;
+}
+
+body{
+	background-color: #D2CA77;
+	height:100%;
+}
+
+.bg{
+	background-image: url("teabags.png");
+	height: 100%;
+	margin: 0;
+	background-position: center;
+	background-size: cover;
+}
+
+.nav-link{
+	font-size: 22px;
+}
+
+.nav-link:link, .nav-link:visited{
+	text-decoration: none;
+	color: #3D3D0A;
+}
+
+.nav-link:hover, .nav-link:active{
+	text-decoration: none;
+	color: #8D8529;
+}
+
+h1{
+	color: #3D3D0A;
+}
