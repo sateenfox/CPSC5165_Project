@@ -8,7 +8,7 @@ body{
 }
 
 .bg{
-	background-image: url("teabags.png");
+	background-image: url("images/teabags.png");
 	height: 100%;
 	margin: 0;
 	background-position: center;
