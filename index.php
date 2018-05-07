@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+
+?>
 <html lang = "en">
 <head>
 	<meta charset = "utf-8">
@@ -10,17 +12,22 @@
 </head>
 
 <body>
-	<div class = "container-fluid justify-content-around">
-		<!--Navigation Bar-->
-		<div class = "row justify-content-around">
+	<div class = "container-fluid bg">
+		
+		<div class = "row justify-content-center align-middle landing-page">
+			<img class = "mx-auto" src = "images/logo.png" alt = "TeAmo Tea" style = "height:200px;"></div>
+		<div class = "row">
+			<h1 class = "mx-auto" id = "cafe_name">Te Amo Tea</h1>
+		</div>
+		<div class = "row justify-content-center">
 			<nav class = "nav">
-			<a class = "nav-link" href = "index.html">Home</a>
-			<a class = "nav-link" href = "menu.html">Menu</a>
-			<a class = "nav-link" href = "">Shop</a>
-			<a class = "nav-link" href = "about.html">About</a>
-			<a class = "nav-link" href = "contact.html">Contact</a>
+				<a class = "nav-link" href = "index.html">Home</a>
+				<a class = "nav-link" href = "menu.html">Menu</a>
+				<a class = "nav-link" href = "shop.php">Shop</a>
+				<a class = "nav-link" href = "about.html">About</a>
+				<a class = "nav-link" href = "contact.html">Contact</a>
 			</nav>
-		</div>	
+		</div>
 	</div>
 	
 	
