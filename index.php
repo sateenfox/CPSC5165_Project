@@ -21,11 +21,11 @@
 		</div>
 		<div class = "row justify-content-center">
 			<nav class = "nav">
-				<a class = "nav-link" href = "index.html">Home</a>
-				<a class = "nav-link" href = "menu.html">Menu</a>
+				<a class = "nav-link" href = "index.php">Home</a>
+				<a class = "nav-link" href = "menu.php">Menu</a>
 				<a class = "nav-link" href = "shop.php">Shop</a>
-				<a class = "nav-link" href = "about.html">About</a>
-				<a class = "nav-link" href = "contact.html">Contact</a>
+				<a class = "nav-link" href = "about.php">About</a>
+				<a class = "nav-link" href = "contact.php">Contact</a>
 			</nav>
 		</div>
 	</div>
