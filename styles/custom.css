@@ -1,25 +1,31 @@
 html{
 	font-family: "Montserrat", sans-serif;
 	font-family: "Raleway", sans-serif;
+	height:100%;
 }
 
 body{
-	background-color: #E1C294;
+	background-color: #D2CA77;
 	font-family: Raleway;
-	color:black;
+	color: black;
+	height:100%;
 }
 
 h1, h2, h3, h4, h5, h6{
 	font-family: Montserrat;
-	color:#322A15;
+	color: #322A15;
 }
 
 .bg{
-	background: url('images/teabags.png') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
+	background-image: url("https://static1.squarespace.com/static/541e0918e4b0debb331819f5/t/59557e98d1758e89108214d9/1498790032701/tea+bags.png?format=1500w");
+	height: 100%;
+	margin: 0;
+	background-position: center;
 	background-size: cover;
-	-o-background-size: cover;
+}
+
+.landing-page{
+	padding-top:5em;
 }
 
 .nav-link{
@@ -42,5 +48,5 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .menu{
-	margin-top:2em;
+	margin-top: 2em;
 }
