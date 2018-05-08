@@ -28,10 +28,61 @@
 		</div>
 		<div class = "row justify-content-center">
 			<h1>Menu</h1>
-			<h2></h2>
 		</div>
-		<div class = "row>">
-			
+		<div class = "row justify-content-center">
+			<h2>Hot Drinks</h2>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Sencha Tea</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Black Tea</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Green Tea</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Rooibos Tea</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Iced Coffee</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Fireball Chai</p>
+		</div>
+		<div class = "row justify-content-center">
+			<h2>Cold Drinks</h2>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Boba Tea</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Iced Tea Lemonade</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Strawberry Green Tea Refresher</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Peach White Tea Refresher</p>
+		</div>
+		<div class = "row justify-content-center">
+			<h2>Pastries</h2>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Blueberry Muffins</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Lemon Poppyseed Muffins</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Brownies</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Banana Bread</p>
+			</div>
+		<div class = "row justify-content-center">
+			<p>Cinnamon Rolls</p>
+			</div>
 		</div>
 	</div>
 	<!--Bootstrap Scripts-->
