@@ -28,6 +28,10 @@ h1, h2, h3, h4, h5, h6{
 	padding-top:5em;
 }
 
+.nav{
+	background-color:brown;
+}
+
 .nav-link{
 	font-family: Montserrat;
 	font-size: 1.17em;
@@ -49,4 +53,9 @@ h1, h2, h3, h4, h5, h6{
 
 .menu{
 	margin-top: 2em;
+}
+
+.error-message
+{
+	color:red;
 }
