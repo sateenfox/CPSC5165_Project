@@ -25,13 +25,11 @@
 		</div>
 		<div class = "row justify-content-center">
 			<nav class = "nav">
-				<a class = "nav-link" href = "index.php"><strong>Home</strong></a>
-				<a class = "nav-link" href = "menu.php"><strong>Menu</strong></a>
-				<a class = "nav-link" href = "shop.php"><strong>Shop</strong></a>
-				<a class = "nav-link" href = "about.php"><strong>About</strong></a>
-				<a class = "nav-link" href = "contact.php"><strong>Contact</strong></a>
-				<a class = "nav-link" href = "logout.php"><strong>Sign Out</strong></a>
-				<a class = "nav-link" href = "search.php"><strong>Search</strong></a>
+				<a class = "nav-link" href = "index.php">Home</a>
+				<a class = "nav-link" href = "menu.php">Menu</a>
+				<a class = "nav-link" href = "contact.php">Contact</a>
+				<a class = "nav-link" href = "logout.php">Sign Out</a>
+				<a class = "nav-link" href = "search.php">Search</a>
 			</nav>
 		</div>
 	</div>
